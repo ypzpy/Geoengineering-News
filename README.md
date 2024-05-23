@@ -1,5 +1,6 @@
 # Geoengineering-News
 
+**Reference:** [*Deciphering public attention to geoengineering and climate issues using machine learning and dynamic analysis*](https://arxiv.org/pdf/2405.07010)
 
 Use google drive to assure all codes are running in the right environment.
 
@@ -17,7 +18,6 @@ Geoengineering-Causality.ipynb: Causality analysis
 
 ![sample](sample-graph/sample.jpg "Sample Graph from Paper")
 
-**Reference:** [*Deciphering public attention to geoengineering and climate issues using machine learning and dynamic analysis*](https://arxiv.org/pdf/2405.07010)
 
 ## Report bugs
 
