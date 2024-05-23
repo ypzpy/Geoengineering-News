@@ -15,4 +15,10 @@ Geoengineering-Correlation.ipynb: Correlation analysis
 
 Geoengineering-Causality.ipynb: Causality analysis
 
+![sample](sample-graph/sample.jpg "Sample Graph from Paper")
 
+**Reference:** [*Deciphering public attention to geoengineering and climate issues using machine learning and dynamic analysis*](https://arxiv.org/pdf/2405.07010)
+
+## Report bugs
+
+Please report bugs to **tq224 \[at\] cam.ac.uk** with your sample code and data file. Much appreciated!
